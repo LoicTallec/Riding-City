@@ -163,11 +163,6 @@ p {
 	text-decoration: none;
 }
 
-.buttonDrakGreyColor {
-	color: var(--drak-grey-color);
-	border-color: var(--drak-grey-color);
-}
-
 .buttonMainColor {
 	color: var(--main-color);
 	border-color: var(--main-color);
